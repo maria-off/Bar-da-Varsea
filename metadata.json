@@ -1,0 +1,6 @@
+{
+  "name": "Bar da Várzea - Gestão de Vendas & Fiados",
+  "description": "Sistema completo mobile-first para gestão de vendas, comandas, fiados e caixa em campeonatos de futebol de domingo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
